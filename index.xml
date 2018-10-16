@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE xml>
+<xml>
 
 <head><title>Welcome.</title>
   <h1>Welcome.</h1>
@@ -8,4 +8,4 @@
     <br>
     <p>testing</p>
   </body>
-</html>
+</xml>
